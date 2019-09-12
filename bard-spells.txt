@@ -1,0 +1,127 @@
+1st
+Animal Friendship: Convince a beast you mean no harm.
+Bane: Weaken attacks against you.
+Charm Person: Charm a humanoid for 1 min.
+Comprehend Languages: Understand literal meaning of languages (heard or read).
+Cure Wounds: Touch and heal 1d8 + spellcasting modifier.
+Detect Magic: Sense magic 30 ft around you.
+Disguise Self: Mask yourself for 1 hour.
+Dissonant Whispers: Deal 3d6 damage and make the target flee.
+Faerie Fire: Shed colorful light around you, outline creatures and objects.
+Feather Fall: Slow the fall of the party for 1 min.
+Healing Word: Heal 1d4 + spellcasting modifier in distance.
+Heroism: For 1 min, a touched creature has advantage or temporary hit points every turn.
+Identify: Touch an object, learn all magical ability of it, 100GP.
+Illusory Script: Encrypt text, 10GP.
+Longstrider: Touch a creature and increase its speed by 10.
+Silent Image: Create a visual phenomenon for 10 mins.
+Sleep: Make creatures sleep for 1 mins.
+Speak with Animals: Can talk to beasts for 10 mins.
+Tasha's Hideous Laughter: A creature finds you super funny suddenly for 1 min.
+Thunderwave: Cause a thunder force around you dealing 2d8 damage and pushing creatures away.
+Unseen Servant: An invisible force for 1 hour, that is capable executing basic actions for you.
+
+2nd
+Animal Messenger: Send a message by a tiny beast.
+Blindness/Deafness: Blind or make a creature deaf for 1 min from distance.
+Calm Emotions: Chill a group of people.
+Cloud of Daggers: Spinning daggers deals 4d4 damage.
+Crown of Madness: Charm a person for 1 minute, making it attack someone you chose.
+Detect Thoughts: Read minds of a creature you see, with time you can mine deeper and deeper.
+Enhance Ability: Touch a creature and bestow it, it gains advantage on a chosen ability check.
+Enthrall: A target creature can only hear you.
+Heat Metal: Heat a metal, causing it to deal 2d8 damage to anyone in contact with it.
+Hold Person: Paralyze a creature.
+Invisibility: Touch a creature, it becomes invisible for 1 hour.
+Knock: Open stuff up.
+Lesser Restoration: Touch a creature and remove a disease or condition.
+Locate Animals or Plants: Find a specific kind of beast or plant.
+Locate Object: Find a familiar object.
+Magic Mouth: Implant a hidden message into an object to be triggered by your specified conditions, 10GP.
+Phantasmal Force: Plant an illusion into a mind for 1 min.
+See Invisibility: See invisibility and Ethernal Plane for 1 hour.
+Shatter: A sound shockwave from a point deals 3d8 damage.
+Silence: Silence and deaf in an area for 10 mins (prevents verbal spellcasting).
+Suggestion: Try to influence a creature to act according to your will for 8 hours.
+Zone of Truth: A zone which guards against deception and lies.
+
+3rd
+Bestow Curse: Touch a creature and pick a curse (several types of disadvantages, or weakenings).
+Clairvoyance: Invisible sensor that you can use to see or hear through, 100GP.
+Dispel Magic: Try to remove magic from a creature or object.
+Fear: Frighten creatures in an area 30 ft around you.
+Feign Death: Touch a creature to make it appear to be dead for 1 hour.
+Glyph of Warding: Protect and object or a place with an effect of your choice, 200GP.
+Hypnotic Pattern: Charm an area, rendering creatures into hypnosis.
+Leomund's Tiny Hut: A stationary anti-magic force-field around you for your party, for 8 hours.
+Major Image: 20ft cube phenomenon for 10 mins, only physical interaction will reveal it.
+Nondetection: Protects against divination magic, 25GP.
+Plant Growth: Make plants grow.
+Sending: Send a message to a familiar creature, which will hear it in its mind.
+Speak with Dead: Ask 5 questions to a dead body and receive some answers.
+Speak with Plants: Speak with plants around you for 10 mins, ask favors maybe.
+Stinking Cloud: Poison cloud for 1 min, that poisons creatures rendering them useless, obscuring the area.
+Tongues: Touch a creature and make it understand every language.
+
+4th
+Compulsion
+Confusion
+Dimension Door
+Freedom of Movement
+Greater Invisibility
+Hallucinatory Terrain
+Locate Creature
+Polymorph
+
+5th
+Animate Objects
+Awaken
+Dominate Person
+Dream
+Geas
+Greater Restoration
+Hold Monster
+Legend Lore
+Mass Cure Wounds
+Mislead
+Modify Memory
+Planar Binding
+Raise Dead
+Scrying
+Seeming
+Teleportation Circle
+
+6th
+Eyebit
+Find the Path
+Guards and Wards
+Mass Suggestion
+Otto's Irresistible Dance
+Programmed Illusion
+True Seeing
+
+7th
+Etherealness
+Forcecage
+Mirage Arcane
+Mordenkainen's Magnificent Mansion
+Mordenkainen's Sword
+Project Image
+Regenerate
+Resurrection
+Symbol
+Teleport
+
+8th
+Dominate Monster
+Feeblemind
+Glibness
+Mind Blank
+Power Word Stun
+
+9th
+Foresight
+Power Word Heal
+Power Word Kill
+True Polymorph
+

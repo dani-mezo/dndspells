@@ -1,0 +1,56 @@
+1st
+Alarm: Mark something, get alarmed if touched or entered.
+Animal Friendship: Convince a beast you mean no harm.
+Cure Wounds: Touch and heal 1d8 + spellcasting modifier.
+Detect Magic: Sense magic 30 ft around you.
+Detect Poison and Disease: Sense poison or disease 30 ft around you.
+Ensnaring Strike: Upon a hit, you ensnare a target with vines, 1d6 damage every turn for 1 min.
+Fog Cloud: 20ft radius fog sphere.
+Goodberry: Summon 10 berries, each of which heals 1 HP.
+Hail of Thorns: Your next ranged attack will deal 1d10 area damage around it's target.
+Hunter's Mark: Mark for 1 hour, deal additional 1d6 damage when you hit it, gain advantage to track it down.
+Jump: Tripled jump distance for 1 min.
+Longstrider: Touch a creature and increase its speed by 10.
+Speak with Animals: Can talk to beasts for 10 mins.
+
+2nd
+Animal Messenger: Send a message by a tiny beast.
+Barkskin: Increase AC to 16 for an hour.
+Beast Sense: Touch a beast and sense through its senses for 1 hour.
+Cordon of Arrows: Plant 4 arrows on the ground. Deal 1d6 to anyone comes close per arrow.
+Darkvision: Touch a creature, cause darkvision for 8 hours.
+Find Traps: Sense traps around you.
+Lesser Restoration: Touch a creature and remove a disease or condition.
+Locate Animals or Plants: Find a specific kind of beast or plant.
+Locate Object: Find a familiar object.
+Pass without Trace: Hide your party for an hour.
+Protection of Poison: Touch a creature and neutralize poison in it.
+Silence: Silence and deaf in an area for 10 mins (prevents verbal spellcasting).
+Spike Growth: Make an area grow spikes, which slow and 2d4 damage creatures passing by.
+
+3rd
+Conjure Animals: Conjure a beast with max CR of 2.
+Conjure Barrage: Replicate and shot ammunition magically, dealing 3d8 damage.
+Daylight: 60 foot radius light sphere.
+Lightning Arrow: The next ranged attack will deal 4d8 damage instead of normal damage.
+Nondetection: Protects against divination magic, 25GP.
+Plant Growth: Make plants grow.
+Protection from Energy: Touch a creature and make it have resistance from an energy damage type.
+Speak with Plants: Speak with plants around you for 10 mins, ask favors maybe.
+Water Breathing: Breath under water up to 10 creature for 24 hours.
+Water Walk: Up to 10 creatures to walk on liquids for 1 hour.
+Wind Wall: Strong wall of wind for 1 min, dealing 3d8 damage.
+
+4th
+Conjure Woodland Beings
+Freedom of Movement
+Grasping Vine
+Locate Creature
+Stoneskin
+
+5th
+Commune with Nature
+Conjure Volley
+Swift Quiver
+Tree Stride
+

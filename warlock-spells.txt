@@ -1,0 +1,83 @@
+1st
+Armor of Agathys: Gain 5 temporary HP and deal cold damage.
+Arms of Hadar: Deal damage 10ft around you.
+Charm Person: Charm a humanoid for 1 min.
+Comprehend Languages: Understand literal meaning of languages (heard or read).
+Expeditious Retreat: You can dash as a bonus action for 10 mins.
+Hellish Rebuke: You enflame someone who damaged you, dealing 2d10 damage.
+Hex: Mark a creature, and deal additional 1d6 damage anytime you damage it and make it have certain disadvantage.
+Illusory Script: Encrypt text, 10GP.
+Protection from Evil and Good: Protect from certain type of creatures.
+Unseen Servant: An invisible force for 1 hour, that is capable executing basic actions for you.
+Witch Bolt: A lightning connection between you and your target for 1 min, which takes 1d12/turn.
+
+2nd
+Cloud of Daggers: Spinning daggers deals 4d4 damage.
+Crown of Madness: Charm a person for 1 minute, making it attack someone you chose.
+Darkness: 15ft radius magical darkness sphere.
+Enthrall: A target creature can only hear you.
+Hold Person: Paralyze a creature.
+Invisibility: Touch a creature, it becomes invisible for 1 hour.
+Mirror Image: Three duplicates of you appears for 1 min, confusing everyone.
+Misty Step: Teleport up to 30 ft away.
+Ray of Enfeeblement: Weaken an enemy, halving its Strength damage.
+Shatter: A sound shockwave from a point deals 3d8 damage.
+Spider Climb: Touch a creature, that will be able to walk walls and ceilings.
+Suggestion: Try to influence a creature to act according to your will for 8 hours.
+
+3rd
+Counterspell: Try to interrupt a spellcast.
+Dispel Magic: Try to remove magic from a creature or object.
+Fear: Frighten creatures in an area 30 ft around you.
+Fly: Touch a creature, and make it fly up to 10 mins.
+Gaseous Form: Touch a creature and transform it to gas.
+Hunger of Hadar: 20ft wide horror sphere, deals 2d6 damage on start turn, 2d6 damage on end turn.
+Hypnotic Pattern: Charm an area, rendering creatures into hypnosis.
+Magic Circle: A circle which cannot be entered by one type of creatures, 100GP.
+Major Image: 20ft cube phenomenon for 10 mins, only physical interaction will reveal it.
+Remove Curse: Touch a creature or object, to remove a curse.
+Tongues: Touch a creature and make it understand every language.
+Vampiric Touch: Touch a creature, deal 3d6 damage and heal half of that amount.
+
+4th
+Banishment
+Blight
+Dimension Door
+Hallucinatory Terrain
+
+5th
+Contact Other Plane
+Dream
+Hold Monster
+Scrying
+
+6th
+Arcane Gate
+Circle of Death
+Conjure Fey
+Create Undead
+Eyebit
+Flesh to Stone
+Mass Suggestion
+True Seeing
+
+7th
+Etherealness
+Finger of Death
+Forcecage
+Plane Shift
+
+8th
+Demiplane
+Dominate Monster
+Feeblemind
+Glibness
+Power Word Stun
+
+9th
+Astral Projection
+Foresight
+Imprisonment
+Power Word Kill
+True Polymorph
+

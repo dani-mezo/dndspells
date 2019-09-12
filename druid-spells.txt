@@ -1,0 +1,118 @@
+1st
+Animal Friendship: Convince a beast you mean no harm.
+Charm Person: Charm a humanoid for 1 min.
+Create or Destroy Water: 10 gallons of it.
+Cure Wounds: Touch and heal 1d8 + spellcasting modifier.
+Detect Magic: Sense magic 30 ft around you.
+Detect Poison and Disease: Sense poison or disease 30 ft around you.
+Entangle: Ensnares a location and roots creatures there.
+Faerie Fire: Shed colorful light around you, outline creatures and objects.
+Fog Cloud: 20ft radius fog sphere.
+Goodberry: Summon 10 berries, each of which heals 1 HP.
+Healing Word: Heal 1d4 + spellcasting modifier in distance.
+Jump: Tripled jump distance for 1 min.
+Longstrider: Touch a creature and increase its speed by 10.
+Purify Food and Drink: Remove poison and disease from food and drink.
+Speak with Animals: Can talk to beasts for 10 mins.
+Thunderwave: Cause a thunder force around you dealing 2d8 damage and pushing creatures away.
+
+2nd
+Animal Messenger: Send a message by a tiny beast.
+Barkskin: Increase AC to 16 for an hour.
+Beast Sense: Touch a beast and sense through its senses for 1 hour.
+Darkvision: Touch a creature, cause darkvision for 8 hours.
+Enhance Ability: Touch a creature and bestow it, it gains advantage on a chosen ability check.
+Find Traps: Sense traps around you.
+Flame Blade: A flaming scimitar, deals 3d6 damage on hit.
+Flaming Sphere: Movable (bonus action) flame sphere which deals 2d6 damage.
+Gust of Wind: Summon a strong wind for 1 min.
+Heat Metal: Heat a metal, causing it to deal 2d8 damage to anyone in contact with it.
+Hold Person: Paralyze a creature.
+Lesser Restoration: Touch a creature and remove a disease or condition.
+Locate Animals or Plants: Find a specific kind of beast or plant.
+Locate Object: Find a familiar object.
+Moonbeam: Silverbeam damages an area, dealing 2d10 damage.
+Pass without Trace: Hide your party for an hour.
+Protection of Poison: Touch a creature and neutralize poison in it.
+Spike Growth: Make an area grow spikes, which slow and 2d4 damage creatures passing by.
+
+3rd
+Call Lightning: Summon lightning in an area, deal 3d10 damage.
+Conjure Animals: Conjure a beast with max CR of 2.
+Daylight: 60 foot radius light sphere.
+Dispel Magic: Try to remove magic from a creature or object.
+Feign Death: Touch a creature to make it appear to be dead for 1 hour.
+Meld Into Stone: You step into a stone, become one with it for 8 hours.
+Plant Growth: Make plants grow.
+Protection from Energy: Touch a creature and make it have resistance from an energy damage type.
+Sleet Storm: Freezing rain and storm in an area for 1 min, difficult terrain which is obscured.
+Speak with Plants: Speak with plants around you for 10 mins, ask favors maybe.
+Water Breathing: Breath under water up to 10 creature for 24 hours.
+Water Walk: Up to 10 creatures to walk on liquids for 1 hour.
+Wind Wall: Strong wall of wind for 1 min, dealing 3d8 damage.
+
+4th
+Blight
+Confusion
+Conjure Minor Elementals
+Conjure Woodland Beings
+Control Water
+Dominate Beast
+Freedom of Movement
+Giant Insect
+Grasping Vine
+Hallucinatory Terrain
+Ice Storm
+Locate Creature
+Stone Shape
+Stoneskin
+Wall of Fire
+
+5th
+Antilife Shell
+Awaken
+Commune with Nature
+Conjure ELemental
+Contagion
+Geas
+Greater Restoration
+Insect Plague
+Planar Binding
+Reincarnate
+Scrying
+Tree Stride
+Wall of Stone
+
+6th
+Conjure Fey
+Find the Path
+Heal
+Heroes' Feast
+Move Earth
+Sunbeam
+Transport via Plants
+Wall of Thorns
+Wind Walk
+
+7th
+Fire Storm
+Mirage Arcane
+Plane Shift
+Regenerate
+Reverse Gravity
+
+8th
+Animal Shapes
+Antipathy/Sympathy
+Control Weather
+Earthquake
+Feeblemind
+Sunburst
+Tsunami
+
+9th
+Foresight
+Shapechange
+Storm of Vengeance
+True Resurrection
+

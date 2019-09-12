@@ -1,0 +1,116 @@
+1st
+Bane: Weaken attacks against you.
+Bless: Bless 3 creatures, give 1d4 on attacks or saves for 1 min.
+Command: Try to command a creature.
+Create or Destroy Water: 10 gallons of it.
+Cure Wounds: Touch and heal 1d8 + spellcasting modifier.
+Detect Evil and Good: Detect certain creatures or objects (good or evil) 30 ft around you.
+Detect Magic: Sense magic 30 ft around you.
+Detect Poison and Disease: Sense poison or disease 30 ft around you.
+Guiding Bolt: Light strike to distance, deals 4d6 damage and gives advantage on your next attack.
+Healing Word: Heal 1d4 + spellcasting modifier in distance.
+Inflict Wounds: One time stike, deals 3d10 damage.
+Protection from Evil and Good: Protect from certain type of creatures.
+Purify Food and Drink: Remove poison and disease from food and drink.
+Sanctuary: Protect a creature with a ward, so that other creatures cannot harm it.
+Shield of Faith: Increases a creature's AC by 2 for 10 mins.
+
+2nd
+Aid: Temporary 5 HP boost to 3 creatures.
+Augury: predict an outcome of an act 30mins into the future, 25GP.
+Blindness/Deafness: Blind or make a creature deaf for 1 min from distance.
+Calm Emotions: Chill a group of people.
+Continual Flame: Magical flame with no heat.
+Enhance Ability: Touch a creature and bestow it, it gains advantage on a chosen ability check.
+Find Traps: Sense traps around you.
+Gentle Repose: Touch and protect someone or something from decay for 10 days.
+Lesser Restoration: Touch a creature and remove a disease or condition.
+Locate Object: Find a familiar object.
+Prayer of Healing: Heal the party 2d8 + spellcasting modifier from distance.
+Protection of Poison: Touch a creature and neutralize poison in it.
+Silence: Silence and deaf in an area for 10 mins (prevents verbal spellcasting).
+Spiritual Weapon: Create a floating weapon in distance which strikes and deals 1d8 + spellcasting modifier damage.
+Warding Bond: Touch a creature and while it is near you for an hour, it is resistant to damage, has +1 AC, and you suffer the same damage it does, 100GP.
+Zone of Truth: A zone which guards against deception and lies.
+
+3rd
+Animate Dead: Commandable undead servant.
+Beacon of Hope: Increase healing effects, get advantage on death saving throws and Wisdom saves.
+Bestow Curse: Touch a creature and pick a curse (several types of disadvantages, or weakenings).
+Clairvoyance: Invisible sensor that you can use to see or hear through, 100GP.
+Create Food and Water: 45 pound food, 30 gallons of water.
+Daylight: 60 foot radius light sphere.
+Dispel Magic: Try to remove magic from a creature or object.
+Feign Death: Touch a creature to make it appear to be dead for 1 hour.
+Glyph of Warding: Protect and object or a place with an effect of your choice, 200GP.
+Magic Circle: A circle which cannot be entered by one type of creatures, 100GP.
+Mass Healing Word: Heal the whole party for 1d4 + spellcasting modifier.
+Meld Into Stone: You step into a stone, become one with it for 8 hours.
+Protection from Energy: Touch a creature and make it have resistance from an energy damage type.
+Remove Curse: Touch a creature or object, to remove a curse.
+Revivify: Revive a creature, 300 GP.
+Sending: Send a message to a familiar creature, which will hear it in its mind.
+Speak with Dead: Ask 5 questions to a dead body and receive some answers.
+Spirit Guardians: Summon spirits around you, which slows creatures and deal 3d8 damage.
+Tongues: Touch a creature and make it understand every language.
+Water Walk: Up to 10 creatures to walk on liquids for 1 hour.
+
+4th
+Banishment
+Control Weather
+Death Ward
+Divination
+Freedom of Movement
+Guardian of Faith
+Locate Creature
+Stone Shape
+
+5th
+Commune
+Contagion
+Dispel Evil and Good
+Flame Strike
+Geas
+Greater Restoration
+Hallow
+Insect Plague
+Legend Lore
+Mass Cure Wounds
+Planar Binding
+Raise Dead
+Scrying
+
+6th
+Blade Barrier
+Create Undead
+Find the Path
+Forbiddance
+Harm
+Heal
+Heroes' Feast
+Planar Ally
+True Seeing
+Word of Recall
+
+7th
+Conjure Celestial
+Divine Word
+Etherealness
+Fire Storm
+Plane Shift
+Regenerate
+Resurrection
+Symbol
+
+8th
+Antimagic Field
+Control Weather
+Earthquake
+Holy Aura
+
+9th
+Astral Projection
+Gate
+Mass Heal
+True Resurrection
+

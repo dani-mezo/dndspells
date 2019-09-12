@@ -1,0 +1,130 @@
+1st
+Burning Hands: A cone of fire spreads from your hand, deals 3d6 damage.
+Charm Person: Charm a humanoid for 1 min.
+Chromatic Orb: Send an orb of special type to deal 3d8 damage, 50GP.
+Color Spray: Blind creatures around you.
+Comprehend Languages: Understand literal meaning of languages (heard or read).
+Detect Magic: Sense magic 30 ft around you.
+Disguise Self: Mask yourself for 1 hour.
+Expeditious Retreat: You can dash as a bonus action for 10 mins.
+False Life: Get 1d4 + 4 temporary HP for 1 hour.
+Feather Fall: Slow the fall of the party for 1 min.
+Fog Cloud: 20ft radius fog sphere.
+Jump: Tripled jump distance for 1 min.
+Mage Armor: Touch a creature and make it's AC 13 + Dex modifier, for 8 hours.
+Magic Missle: 3 magical darts to 1 to 3 targets, each dealing 1d4 + 1 damage.
+Ray of Sickness: Ranged spell attack to deal 2d8 poison damage and poison it.
+Shield: Gain +5 AC for a turn.
+Silent Image: Create a visual phenomenon for 10 mins.
+Sleep: Make creatures sleep for 1 mins.
+Thunderwave: Cause a thunder force around you dealing 2d8 damage and pushing creatures away.
+Witch Bolt: A lightning connection between you and your target for 1 min, which takes 1d12/turn.
+
+2nd
+Alter Self: Change appearance, grow natural weapons or be aquatic.
+Blindness/Deafness: Blind or make a creature deaf for 1 min from distance.
+Blur: Disadvantage for anyone to hit you for 1 min.
+Cloud of Daggers: Spinning daggers deals 4d4 damage.
+Crown of Madness: Charm a person for 1 minute, making it attack someone you chose.
+Darkness: 15ft radius magical darkness sphere.
+Darkvision: Touch a creature, cause darkvision for 8 hours.
+Detect Thoughts: Read minds of a creature you see, with time you can mine deeper and deeper.
+Enhance Ability: Touch a creature and bestow it, it gains advantage on a chosen ability check.
+Enlarge/Reduce: Make something's size doubled or halved.
+Gust of Wind: Summon a strong wind for 1 min.
+Hold Person: Paralyze a creature.
+Invisibility: Touch a creature, it becomes invisible for 1 hour.
+Knock: Open stuff up.
+Levitate: Making someone float.
+Mirror Image: Three duplicates of you appears for 1 min, confusing everyone.
+Misty Step: Teleport up to 30 ft away.
+Phantasmal Force: Plant an illusion into a mind for 1 min.
+Scorching Ray: Create 3 fire rays and hurl them, each deals 2d6 damage.
+See Invisibility: See invisibility and Ethernal Plane for 1 hour.
+Shatter: A sound shockwave from a point deals 3d8 damage.
+Spider Climb: Touch a creature, that will be able to walk walls and ceilings.
+Suggestion: Try to influence a creature to act according to your will for 8 hours.
+Web: Create a web for 1 hour, might restrain creatures.
+
+3rd
+Blink: Be untargatable in other's turns, and teleport 10 feet every turn.
+Clairvoyance: Invisible sensor that you can use to see or hear through, 100GP.
+Counterspell: Try to interrupt a spellcast.
+Daylight: 60 foot radius light sphere.
+Dispel Magic: Try to remove magic from a creature or object.
+Fear: Frighten creatures in an area 30 ft around you.
+Fireball: A ball of fire travels a huge distance and deals 8d6 damage and ignites stuff.
+Fly: Touch a creature, and make it fly up to 10 mins.
+Gaseous Form: Touch a creature and transform it to gas.
+Haste: Double the speed, and increase the AC by 2.
+Hypnotic Pattern: Charm an area, rendering creatures into hypnosis.
+Lightning Bolt: A line of lightning, deals 8d6 damage and ignites.
+Major Image: 20ft cube phenomenon for 10 mins, only physical interaction will reveal it.
+Protection from Energy: Touch a creature and make it have resistance from an energy damage type.
+Sleet Storm: Freezing rain and storm in an area for 1 min, difficult terrain which is obscured.
+Slow: Slow an area (~6 people) for 1 min.
+Stinking Cloud: Poison cloud for 1 min, that poisons creatures rendering them useless, obscuring the area.
+Tongues: Touch a creature and make it understand every language.
+Water Breathing: Breath under water up to 10 creature for 24 hours.
+Water Walk: Up to 10 creatures to walk on liquids for 1 hour.
+
+4th
+Banishment
+Blight
+Confusion
+Dominate Beast
+Greater Invisibility
+Ice Storm
+Polymorph
+Stoneskin
+Wall of Fire
+
+5th
+Animate Objects
+Cloudkill
+Cone of Cold
+Creation
+Dominate Person
+Hold Monster
+Insect Plague
+Seeming
+Telekinesis
+Teleportation Circle
+Wall of Stone
+
+6th
+Arcane Gate
+Chain Lightning
+Circle of Death
+Disintegrate
+Eyebit
+Globe of Invulnerability
+Mass Suggestion
+Move Earth
+Sunbeam
+True Seeing
+
+7th
+Delayed Blast Fireball
+Etherealness
+Finger of Death
+Fire Storm
+Plane Shift
+Prismatic Spray
+Reverse Gravity
+Teleport
+
+8th
+Dominate Monster
+Earthquake
+Incendiary Cloud
+Power Word Stun
+Sunburst
+
+9th
+Gate
+Meteor Swarm
+Power Word Kill
+Time Stop
+Wish
+
