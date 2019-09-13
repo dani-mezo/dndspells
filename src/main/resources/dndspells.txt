@@ -1,5 +1,5 @@
 1st
-Alarm (ranger, wizard): Mark something, get alarmed if touched or entered.
+Alarm (artificer, ranger, wizard, ): Mark something, get alarmed if touched or entered.
 Animal Friendship (bard, druid, ranger): Convince a beast you mean no harm.
 Armor of Agathys (warlock): Gain 5 temporary HP and deal cold damage.
 Arms of Hadar (warlock): Deal damage 10ft around you.
@@ -13,18 +13,18 @@ Command (cleric, paladin): Try to command a creature.
 Compelled Duel (paladin)
 Comprehend Languages (bard, sorcerer, warlock, wizard): Understand literal meaning of languages (heard or read).
 Create or Destroy Water (cleric, druid): 10 gallons of it.
-Cure Wounds (bard, cleric, druid, paladin, ranger): Touch and heal 1d8 + spellcasting modifier.
+Cure Wounds (artificer, bard, cleric, druid, paladin, ranger): Touch and heal 1d8 + spellcasting modifier.
 Detect Evil and Good (cleric, paladin): Detect certain creatures or objects (good or evil) 30 ft around you.
 Detect Magic (bard, cleric, druid, paladin, ranger, sorcerer, wizard): Sense magic 30 ft around you.
 Detect Poison and Disease (cleric, druid, paladin, ranger): Sense poison or disease 30 ft around you.
-Disguise Self (bard, sorcerer, wizard): Mask yourself for 1 hour.
+Disguise Self (artificer, bard, sorcerer, wizard): Mask yourself for 1 hour.
 Dissonant Whispers (bard): Deal 3d6 damage and make the target flee.
 Divine Favor (paladin): Extra 1d4 damage on your weapon.
 Ensnaring Strike (ranger): Upon a hit, you ensnare a target with vines, 1d6 damage every turn for 1 min.
 Entangle (druid): Ensnares a location and roots creatures there.
-Expeditious Retreat (sorcerer, warlock, wizard): You can dash as a bonus action for 10 mins.
+Expeditious Retreat (artificer, sorcerer, warlock, wizard): You can dash as a bonus action for 10 mins.
 Faerie Fire (bard, druid): Shed colorful light around you, outline creatures and objects.
-False Life (sorcerer, wizard): Get 1d4 + 4 temporary HP for 1 hour.
+False Life (artificer, sorcerer, wizard): Get 1d4 + 4 temporary HP for 1 hour.
 Feather Fall (bard, sorcerer, wizard): Slow the fall of the party for 1 min.
 Find Familiar (wizard): You'll have a buddy who is friendly to you, 10GP.
 Fog Cloud (druid, ranger, sorcerer, wizard): 20ft radius fog sphere.
@@ -40,17 +40,17 @@ Hunter's Mark (ranger): Mark for 1 hour, deal additional 1d6 damage when you hit
 Identify (bard, wizard): Touch an object, learn all magical ability of it, 100GP.
 Illusory Script (bard, warlock, wizard): Encrypt text, 10GP.
 Inflict Wounds (cleric): One time stike, deals 3d10 damage.
-Jump (druid, ranger, sorcerer, wizard): Tripled jump distance for 1 min.
-Longstrider (bard, druid, ranger, wizard): Touch a creature and increase its speed by 10.
+Jump (artificer, druid, ranger, sorcerer, wizard): Tripled jump distance for 1 min.
+Longstrider (artificer, bard, druid, ranger, wizard): Touch a creature and increase its speed by 10.
 Mage Armor (sorcerer, wizard): Touch a creature and make it's AC 13 + Dex modifier, for 8 hours.
 Magic Missle (sorcerer, wizard): 3 magical darts to 1 to 3 targets, each dealing 1d4 + 1 damage.
 Protection from Evil and Good (cleric, paladin, warlock, wizard): Protect from certain type of creatures.
 Purify Food and Drink (cleric, druid, paladin): Remove poison and disease from food and drink.
 Ray of Sickness (sorcerer, wizard): Ranged spell attack to deal 2d8 poison damage and poison it.
 Searing Smite (paladin)
-Sanctuary (cleric): Protect a creature with a ward, so that other creatures cannot harm it.
+Sanctuary (artificer, cleric): Protect a creature with a ward, so that other creatures cannot harm it.
 Shield (sorcerer, wizard): Gain +5 AC for a turn.
-Shield of Faith (cleric, paladin): Increases a creature's AC by 2 for 10 mins.
+Shield of Faith (artificer, cleric, paladin): Increases a creature's AC by 2 for 10 mins.
 Silent Image (bard, sorcerer, wizard): Create a visual phenomenon for 10 mins.
 Sleep (bard, sorcerer, wizard): Make creatures sleep for 1 mins.
 Speak with Animals (bard, druid, ranger): Can talk to beasts for 10 mins.
@@ -63,25 +63,25 @@ Witch Bolt (sorcerer, warlock, wizard): A lightning connection between you and y
 Wrathful Smite (paladin)
 
 2nd
-Aid (cleric, paladin): Temporary 5 HP boost to 3 creatures.
-Alter Self (sorcerer, wizard): Change appearance, grow natural weapons or be aquatic.
+Aid (artificer, cleric, paladin): Temporary 5 HP boost to 3 creatures.
+Alter Self (artificer, sorcerer, wizard): Change appearance, grow natural weapons or be aquatic.
 Animal Messenger (bard, druid, ranger): Send a message by a tiny beast.
-Arcane Lock (wizard): Magically locks stuff, 25GP.
+Arcane Lock (artificer, wizard): Magically locks stuff, 25GP.
 Augury (cleric): predict an outcome of an act 30mins into the future, 25GP.
 Barkskin (druid, ranger): Increase AC to 16 for an hour.
 Beast Sense (druid, ranger): Touch a beast and sense through its senses for 1 hour.
 Blindness/Deafness (bard, cleric, sorcerer, wizard): Blind or make a creature deaf for 1 min from distance.
-Blur (sorcerer, wizard): Disadvantage for anyone to hit you for 1 min.
+Blur (artificer, sorcerer, wizard): Disadvantage for anyone to hit you for 1 min.
 Branding Smite (paladin)
 Calm Emotions (bard, cleric): Chill a group of people.
 Cloud of Daggers (bard, sorcerer, warlock, wizard): Spinning daggers deals 4d4 damage.
-Continual Flame (cleric, wizard): Magical flame with no heat.
+Continual Flame (artificer, cleric, wizard): Magical flame with no heat.
 Cordon of Arrows (ranger): Plant 4 arrows on the ground. Deal 1d6 to anyone comes close per arrow.
 Crown of Madness (bard, sorcerer, warlock, wizard): Charm a person for 1 minute, making it attack someone you chose.
 Darkness (sorcerer, warlock, wizard): 15ft radius magical darkness sphere.
-Darkvision (druid, ranger, sorcerer, wizard): Touch a creature, cause darkvision for 8 hours.
+Darkvision (artificer, druid, ranger, sorcerer, wizard): Touch a creature, cause darkvision for 8 hours.
 Detect Thoughts (bard, sorcerer, wizard): Read minds of a creature you see, with time you can mine deeper and deeper.
-Enhance Ability (bard, cleric, druid, sorcerer): Touch a creature and bestow it, it gains advantage on a chosen ability check.
+Enhance Ability (artificer, bard, cleric, druid, sorcerer): Touch a creature and bestow it, it gains advantage on a chosen ability check.
 Enlarge/Reduce (sorcerer, wizard): Make something's size doubled or halved.
 Enthrall (bard, warlock): A target creature can only hear you.
 Find Steed (paladin): Summon a spirit mount.
@@ -92,14 +92,14 @@ Gentle Repose (cleric, wizard): Touch and protect someone or something from deca
 Gust of Wind (druid, sorcerer, wizard): Summon a strong wind for 1 min.
 Heat Metal (bard, druid): Heat a metal, causing it to deal 2d8 damage to anyone in contact with it.
 Hold Person (bard, druid, sorcerer, warlock): Paralyze a creature.
-Invisibility (bard, sorcerer, warlock, wizard): Touch a creature, it becomes invisible for 1 hour.
+Invisibility (artificer, bard, sorcerer, warlock, wizard): Touch a creature, it becomes invisible for 1 hour.
 Knock (bard, sorcerer, wizard): Open stuff up.
-Lesser Restoration (bard, cleric, druid, paladin, ranger): Touch a creature and remove a disease or condition.
-Levitate (sorcerer, wizard): Making someone float.
+Lesser Restoration (artificer, bard, cleric, druid, paladin, ranger): Touch a creature and remove a disease or condition.
+Levitate (artificer, sorcerer, wizard): Making someone float.
 Locate Animals or Plants (bard, druid, ranger): Find a specific kind of beast or plant.
 Locate Object (bard, cleric, druid, paladin, ranger, wizard): Find a familiar object.
 Magic Mouth (bard, wizard): Implant a hidden message into an object to be triggered by your specified conditions, 10GP.
-Magic Weapon (paladin, wizard): Touch a weapon and it becomes magical, +1 to attack rolls and +1 to damage.
+Magic Weapon (artificer, paladin, wizard): Touch a weapon and it becomes magical, +1 to attack rolls and +1 to damage.
 Melf's Acid Arrow (wizard): Shot a magical arrow that becomes acid dealing 4d4 + 2d4 damage.
 Mirror Image (sorcerer, warlock, wizard): Three duplicates of you appears for 1 min, confusing everyone.
 Misty Step (sorcerer, warlock, wizard): Teleport up to 30 ft away.
@@ -108,14 +108,14 @@ Nystul's Magic Aura (wizard): Touch a creature and trick divination spells.
 Pass without Trace (druid, ranger): Hide your party for an hour.
 Phantasmal Force (bard, sorcerer, wizard): Plant an illusion into a mind for 1 min.
 Prayer of Healing (cleric): Heal the party 2d8 + spellcasting modifier from distance.
-Protection of Poison (cleric, druid, poison, ranger): Touch a creature and neutralize poison in it.
+Protection of Poison (artificer, cleric, druid, poison, ranger): Touch a creature and neutralize poison in it.
 Ray of Enfeeblement (warlock, wizard): Weaken an enemy, halving its Strength damage.
-Rope Trick (wizard): Open up a dimension for 1 hour to where people can escape.
+Rope Trick (artificer, wizard): Open up a dimension for 1 hour to where people can escape.
 Scorching Ray (sorcerer, wizard): Create 3 fire rays and hurl them, each deals 2d6 damage.
-See Invisibility (bard, sorcerer, wizard): See invisibility and Ethernal Plane for 1 hour.
+See Invisibility (artificer, bard, sorcerer, wizard): See invisibility and Ethernal Plane for 1 hour.
 Shatter (bard, sorcerer, warlock, wizard): A sound shockwave from a point deals 3d8 damage.
 Silence (bard, cleric, ranger): Silence and deaf in an area for 10 mins (prevents verbal spellcasting).
-Spider Climb (sorcerer, warlock, wizard): Touch a creature, that will be able to walk walls and ceilings.
+Spider Climb (artificer, sorcerer, warlock, wizard): Touch a creature, that will be able to walk walls and ceilings.
 Spike Growth (druid, ranger): Make an area grow spikes, which slow and 2d4 damage creatures passing by.
 Spiritual Weapon (cleric): Create a floating weapon in distance which strikes and deals 1d8 + spellcasting modifier damage.
 Suggestion (bard, sorcerer, warlock, wizard): Try to influence a creature to act according to your will for 8 hours.
@@ -129,7 +129,7 @@ Aura of Vitality (paladin)
 Beacon of Hope (cleric): Increase healing effects, get advantage on death saving throws and Wisdom saves.
 Bestow Curse (bard, cleric, wizard): Touch a creature and pick a curse (several types of disadvantages, or weakenings).
 Blinding Smite (paladin)
-Blink (sorcerer, wizard): Be untargatable in other's turns, and teleport 10 feet every turn.
+Blink (artificer, sorcerer, wizard): Be untargatable in other's turns, and teleport 10 feet every turn.
 Call Lightning (druid): Summon lightning in an area, deal 3d10 damage.
 Clairvoyance (bard, cleric, sorcerer, wizard): Invisible sensor that you can use to see or hear through, 100GP.
 Conjure Animals (druid, ranger): Conjure a beast with max CR of 2.
@@ -143,10 +143,10 @@ Elemental Weapon (paladin)
 Fear (bard, sorcerer, warlock, wizard): Frighten creatures in an area 30 ft around you.
 Feign Death (bard, cleric, druid, wizard): Touch a creature to make it appear to be dead for 1 hour.
 Fireball (sorcerer, wizard): A ball of fire travels a huge distance and deals 8d6 damage and ignites stuff.
-Fly (sorcerer, warlock): Touch a creature, and make it fly up to 10 mins.
-Gaseous Form (sorcerer, warlock, wizard): Touch a creature and transform it to gas.
-Glyph of Warding (bard, cleric, wizard): Protect and object or a place with an effect of your choice, 200GP.
-Haste (sorcerer, wizard): Double the speed, and increase the AC by 2.
+Fly (artificer, sorcerer, warlock): Touch a creature, and make it fly up to 10 mins.
+Gaseous Form (artificer, sorcerer, warlock, wizard): Touch a creature and transform it to gas.
+Glyph of Warding (artificer, bard, cleric, wizard): Protect and object or a place with an effect of your choice, 200GP.
+Haste (artificer, sorcerer, wizard): Double the speed, and increase the AC by 2.
 Hunger of Hadar (warlock): 20ft wide horror sphere, deals 2d6 damage on start turn, 2d6 damage on end turn.
 Hypnotic Pattern (bard, sorcerer, warlock, wizard): Charm an area, rendering creatures into hypnosis.
 Leomund's Tiny Hut (bard, wizard): A stationary anti-magic force-field around you for your party, for 8 hours.
@@ -159,9 +159,9 @@ Meld Into Stone (cleric, druid): You step into a stone, become one with it for 8
 Nondetection (bard, ranger, wizard): Protects against divination magic, 25GP.
 Phantom Steed (wizard): Summon a mount for 1 hour.
 Plant Growth (bard, druid, ranger): Make plants grow.
-Protection from Energy (cleric, druid, ranger, sorcerer, wizard): Touch a creature and make it have resistance from an energy damage type.
+Protection from Energy (artificer, cleric, druid, ranger, sorcerer, wizard): Touch a creature and make it have resistance from an energy damage type.
 Remove Curse (cleric, paladin, warlock): Touch a creature or object, to remove a curse.
-Revivify (cleric, paladin): Revive a creature, 300 GP.
+Revivify (artificer, cleric, paladin): Revive a creature, 300 GP.
 Sending (bard, cleric, wizard): Send a message to a familiar creature, which will hear it in its mind.
 Sleet Storm (druid, sorcerer, wizard): Freezing rain and storm in an area for 1 min, difficult terrain which is obscured.
 Slow (sorcerer, wizard): Slow an area (~6 people) for 1 min.
@@ -171,14 +171,14 @@ Spirit Guardians (cleric): Summon spirits around you, which slows creatures and 
 Stinking Cloud (bard, sorcerer, wizard): Poison cloud for 1 min, that poisons creatures rendering them useless, obscuring the area.
 Tongues (bard, cleric, sorcerer, warlock, wizard): Touch a creature and make it understand every language.
 Vampiric Touch (warlock, wizard): Touch a creature, deal 3d6 damage and heal half of that amount.
-Water Breathing (druid, ranger, sorcerer, wizard): Breath under water up to 10 creature for 24 hours.
-Water Walk (cleric, druid, ranger, sorcerer): Up to 10 creatures to walk on liquids for 1 hour.
+Water Breathing (artificer, druid, ranger, sorcerer, wizard): Breath under water up to 10 creature for 24 hours.
+Water Walk (artificer, cleric, druid, ranger, sorcerer): Up to 10 creatures to walk on liquids for 1 hour.
 Wind Wall (druid, ranger): Strong wall of wind for 1 min, dealing 3d8 damage.
 
 4th
 Aura of Life (paladin)
 Aura of Purify (paladin)
-Arcane Eye (wizard)
+Arcane Eye (artificer, wizard)
 Banishment (cleric, paladin, sorcerer, warlock, wizard)
 Blight (druid, sorcerer, warlock, wizard)
 Compulsion (bard)
@@ -187,30 +187,30 @@ Conjure Minor Elementals (druid, wizard)
 Conjure Woodland Beings (druid, ranger)
 Control Water (druid, wizard)
 Control Weather (cleric)
-Death Ward (cleric)
+Death Ward (artificer, cleric)
 Dimension Door (bard, warlock, wizard)
 Divination (cleric)
 Dominate Beast (druid, sorcerer)
 Evard's Black Tentacles (wizard)
-Fabricate (wizard)
+Fabricate (artificer, wizard)
 Fire Shield (wizard)
-Freedom of Movement (bard, cleric, druid, ranger)
+Freedom of Movement (artificer, bard, cleric, druid, ranger)
 Giant Insect (druid)
 Grasping Vine (druid, ranger)
 Greater Invisibility (bard, sorcerer, wizard)
 Guardian of Faith (cleric)
 Hallucinatory Terrain (bard, druid, warlock, wizard)
 Ice Storm (druid, sorcerer, wizard)
-Leomund's Secret Chest (wizard)
+Leomund's Secret Chest (artificer, wizard)
 Locate Creature (bard, cleric, druid, paladin, ranger, wizard)
-Mordenkainen's Faithful Hound (wizard)
-Mordenkainen's Private Sanctum (wizard)
-Otiluke's Resilient Sphere (wizard)
+Mordenkainen's Faithful Hound (artificer, wizard)
+Mordenkainen's Private Sanctum (artificer, wizard)
+Otiluke's Resilient Sphere (artificer, wizard)
 Phantasmal Killer (wizard)
 Polymorph (bard, sorcerer, wizard)
 Staggering Smite (paladin)
-Stone Shape (cleric, druid, wizard)
-Stoneskin (druid, ranger, sorcerer, wizard)
+Stone Shape (artificer, cleric, druid, wizard)
+Stoneskin (artificer, druid, ranger, sorcerer, wizard)
 Wall of Fire (druid, sorcerer, wizard)
 
 5th

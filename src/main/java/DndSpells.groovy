@@ -6,7 +6,7 @@ class DndSpells {
     private Map<String, Map<String, List<String>>> spells = new HashMap<>()
 
     private static List<String> CARDINALS = [ '1st', '2nd', '3rd', '4th', '5th', '6th', '7th', '8th', '9th' ]
-    private static List<String> CLASSES = [ 'bard', 'cleric', 'druid', 'ranger', 'sorcerer', 'wizard', 'warlock' ]
+    private static List<String> CLASSES = [ 'bard', 'cleric', 'druid', 'ranger', 'sorcerer', 'wizard', 'warlock', 'artificer']
     private static String LINE_SEPARATOR = System.getProperty("line.separator")
 
     private String currentSpellLevel

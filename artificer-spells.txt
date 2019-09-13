@@ -1,0 +1,51 @@
+1st
+Alarm: Mark something, get alarmed if touched or entered.
+Cure Wounds: Touch and heal 1d8 + spellcasting modifier.
+Disguise Self: Mask yourself for 1 hour.
+Expeditious Retreat: You can dash as a bonus action for 10 mins.
+False Life: Get 1d4 + 4 temporary HP for 1 hour.
+Jump: Tripled jump distance for 1 min.
+Longstrider: Touch a creature and increase its speed by 10.
+Sanctuary: Protect a creature with a ward, so that other creatures cannot harm it.
+Shield of Faith: Increases a creature's AC by 2 for 10 mins.
+
+2nd
+Aid: Temporary 5 HP boost to 3 creatures.
+Alter Self: Change appearance, grow natural weapons or be aquatic.
+Arcane Lock: Magically locks stuff, 25GP.
+Blur: Disadvantage for anyone to hit you for 1 min.
+Continual Flame: Magical flame with no heat.
+Darkvision: Touch a creature, cause darkvision for 8 hours.
+Enhance Ability: Touch a creature and bestow it, it gains advantage on a chosen ability check.
+Invisibility: Touch a creature, it becomes invisible for 1 hour.
+Lesser Restoration: Touch a creature and remove a disease or condition.
+Levitate: Making someone float.
+Magic Weapon: Touch a weapon and it becomes magical, +1 to attack rolls and +1 to damage.
+Protection of Poison: Touch a creature and neutralize poison in it.
+Rope Trick: Open up a dimension for 1 hour to where people can escape.
+See Invisibility: See invisibility and Ethernal Plane for 1 hour.
+Spider Climb: Touch a creature, that will be able to walk walls and ceilings.
+
+3rd
+Blink: Be untargatable in other's turns, and teleport 10 feet every turn.
+Fly: Touch a creature, and make it fly up to 10 mins.
+Gaseous Form: Touch a creature and transform it to gas.
+Glyph of Warding: Protect and object or a place with an effect of your choice, 200GP.
+Haste: Double the speed, and increase the AC by 2.
+Protection from Energy: Touch a creature and make it have resistance from an energy damage type.
+Revivify: Revive a creature, 300 GP.
+Water Breathing: Breath under water up to 10 creature for 24 hours.
+Water Walk: Up to 10 creatures to walk on liquids for 1 hour.
+
+4th
+Arcane Eye
+Death Ward
+Fabricate
+Freedom of Movement
+Leomund's Secret Chest
+Mordenkainen's Faithful Hound
+Mordenkainen's Private Sanctum
+Otiluke's Resilient Sphere
+Stone Shape
+Stoneskin
+
